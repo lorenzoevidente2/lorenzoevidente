@@ -309,7 +309,7 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: tomato;
+  background-color: #233140;
 }
 .btn-outline {
   color: white;
@@ -329,7 +329,7 @@ footer .footer-below {
 }
 .btn-primary {
   color: white;
-  background-color: tomato;
+  background-color: #2C3E50;
   border-color: #2C3E50;
   font-weight: 700;
 }
@@ -339,7 +339,7 @@ footer .footer-below {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: tomato;
+  background-color: #1a242f;
   border-color: #161f29;
 }
 .btn-primary:active,
@@ -362,7 +362,7 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: tomato;
+  background-color: #2C3E50;
   border-color: #2C3E50;
 }
 .btn-primary .badge {
@@ -371,7 +371,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: tomato;
+  background-color: #18BC9C;
   border-color: #18BC9C;
   font-weight: 700;
 }
@@ -381,7 +381,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
   color: white;
-  background-color: tomato;
+  background-color: #128f76;
   border-color: #11866f;
 }
 .btn-success:active,
@@ -404,7 +404,7 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: tomato;
+  background-color: #18BC9C;
   border-color: #18BC9C;
 }
 .btn-success .badge {
@@ -480,7 +480,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: tomato;
+  background-color: #2C3E50;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -491,7 +491,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: tomato;
+  background-color: #2C3E50;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
