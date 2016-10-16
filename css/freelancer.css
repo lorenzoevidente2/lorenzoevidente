@@ -3,12 +3,7 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-#mee{
- position:absolute;
-z-index:-1; 
- height:256px;
-  width:256px;
-}
+
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
